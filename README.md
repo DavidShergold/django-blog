@@ -1,2 +1,2 @@
 # django-blog
-xxxxx
+xxx
